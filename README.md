@@ -3,7 +3,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Hynsen-Tech/flutter-chat-app&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## About
-Multi-platform recipe application built with **Flutter**. This Mobile App utilizes a wide range of features, including **Creation Account**, **Login**, **Firebase**, **Firestore**, and more.
+Multi-platform chat application built with **Flutter**. This Mobile App utilizes a wide range of features, including **Creation Account**, **Login**, **Firebase**, **Firestore**, and more.
 
 Here you can create your account and chat with other people inside the app.
 
